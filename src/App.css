@@ -1,0 +1,56 @@
+.App-header {
+  background-color: #FFC72C; 
+}
+
+.Contact-link {
+  color: #27251F;
+  font-size: larger;
+  margin-top: 10em;
+  margin-left: 15em;
+  margin-right: 18.5em;
+}
+
+.History-link {
+  color: #27251F;
+  font-size: larger;
+  margin-right: 13em;
+  margin-top: 10em;
+}
+
+.Mission-link {
+  color: #27251F;
+  font-size: larger;
+  text-align: right;
+  margin-right: 15em;
+  margin-top: 10em;
+}
+
+
+.App-logo {
+  height: 35vmin;
+  pointer-events: none;
+}
+
+.App-body {
+  background-color: #FFC72C;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #DA291C;
+}
+
+
+p {
+  color: #27251F;
+  font-weight: bold;
+  font-size: larger;
+}
+
+
